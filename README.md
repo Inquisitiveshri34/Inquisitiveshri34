@@ -9,7 +9,7 @@
 
 ## 📌 About Me
 
-Hi! I'm **Diya Shrivastava**, a second-year B.Tech student specializing in **Software Product Engineering** at **Lovely Professional University** with a current **CGPA of 9.85**. I'm enthusiastic about building scalable, intelligent software solutions and constantly learning new technologies.
+Hi! I'm **Diya Shrivastava**, a second-year B.Tech student specializing in **Software Product Engineering** at **Lovely Professional University** with a current **CGPA of 9.74**. I'm enthusiastic about building scalable, intelligent software solutions and constantly learning new technologies.
 
 - 🔭 I’m currently working on full-stack projects with the **MERN stack** and AI integration  
 - 🌱 Learning and practicing **DSA** regularly on **LeetCode**  
@@ -50,7 +50,7 @@ Hi! I'm **Diya Shrivastava**, a second-year B.Tech student specializing in **Sof
 **Bachelor of Technology (B.Tech)**  
 *Lovely Professional University, Punjab*  
 Computer Science Engineering – Software Product Engineering  
-📅 *2022 – Present* | 📈 CGPA: **9.85/10**
+📅 *2022 – Present* | 📈 CGPA: **9.74/10**
 
 **Senior Secondary (CBSE)** – Science (Non-Medical)  
 🎓 *KV Chandkheda, Ahmedabad* – 2022 | **93%**
