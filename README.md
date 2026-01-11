@@ -50,7 +50,7 @@ Hi! I'm **Diya Shrivastava**, a second-year B.Tech student specializing in **Sof
 **Bachelor of Technology (B.Tech)**  
 *Lovely Professional University, Punjab*  
 Computer Science Engineering – Software Product Engineering  
-📅 *2022 – Present* | 📈 CGPA: **9.74/10**
+📅 *2024 – Present* | 📈 CGPA: **9.74/10**
 
 **Senior Secondary (CBSE)** – Science (Non-Medical)  
 🎓 *KV Chandkheda, Ahmedabad* – 2022 | **93%**
