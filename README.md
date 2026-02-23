@@ -107,8 +107,8 @@ KV Chandkheda, Ahmedabad
 
 # 📜 Certifications
 
-- Microsoft Certified: **Azure AI Fundamentals (AI-900)**
-- Microsoft Certified: **GitHub Foundations (GH-900)**
+- [Microsoft Certified: **Azure AI Fundamentals (AI-900)**](https://learn.microsoft.com/api/credentials/share/en-us/DiyaShrivastava3/29C1A09C4E7DEE9?sharingId=EFE7584354ADC986)
+- [Microsoft Certified: **GitHub Foundations (GH-900)**](https://learn.microsoft.com/api/credentials/share/en-us/DiyaShrivastava3/537E8541AA097BAD?sharingId=EFE7584354ADC986)
 
 ---
 
