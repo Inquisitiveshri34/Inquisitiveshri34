@@ -24,46 +24,48 @@ I am passionate about building **scalable, cloud-enabled, and high-performance s
 
 # 💻 Tech Stack
 
-## 🧠 Languages
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=c)
+### AI / ML & Data
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+
+### Full-Stack
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+### Cloud & Tools
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
-
-## 🌐 Full-Stack Development
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Express](https://skillicons.dev/icons?i=express)
-![React](https://skillicons.dev/icons?i=react)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-
----
-
-## ☁️ Cloud & DevOps
-
-![Azure](https://skillicons.dev/icons?i=azure)
-![Docker](https://skillicons.dev/icons?i=docker)
-
----
-
-## 🗄️ Databases
-
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
----
-
-## 🛠️ Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Arduino](https://skillicons.dev/icons?i=arduino)
-
 ---
 
 # 🚀 Projects
@@ -84,6 +86,21 @@ https://github.com/kalviumcommunity/S66-0126-Diya-NextJS-ParkEase
 
 🌐 **Live Application:**  
 https://parkease-sage.vercel.app/
+
+---
+
+## 🛍️ CraftBridge – Marketplace for Local Artisans
+
+**Tech Stack:** Flutter, Firebase, Dart, Firestore, FCM, Google Maps  
+
+- Built a **mobile marketplace** connecting artisans & buyers  
+- Designed **3-role system:** Admin, Seller, Buyer  
+- Implemented **real-time order management & notifications**  
+- Integrated **Google Maps for artisan discovery**  
+- Delivered a **production-ready APK independently**
+
+🔗 **Repository:** 
+https://github.com/Inquisitiveshri34/craft_bridge
 
 ---
 
