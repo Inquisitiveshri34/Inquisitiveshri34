@@ -1,28 +1,46 @@
-# 👩‍💻 Diya Shrivastava
+<div align="center">
 
-**B.Tech Computer Science (Software Product Engineering) | Lovely Professional University '28**  
-**Full-Stack Developer | DSA Enthusiast | Microsoft Certified | AI Learner**
+<!-- Elegant header with gradient name -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Diya%20Shrivastava&fontSize=70&fontColor=e2c27d&fontAlignY=32&desc=Microsoft%20Certified%20%7C%20AI%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descColor=a8b2c1&animation=fadeIn" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Inquisitiveshri34)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyashrivastava34/)
-[![Profile Views](https://komarev.com/ghpvc/?username=Inquisitiveshri34&color=blue)](https://github.com/Inquisitiveshri34)
+</div>
 
----
+<br/>
 
-# 📌 About Me
+<div align="center">
 
-Hi, I'm **Diya Shrivastava**, a Computer Science student specializing in **Software Product Engineering** at **Lovely Professional University**, with a **CGPA of 9.20 / 10**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/diyashrivastava34/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Inquisitiveshri34)
 
-I am passionate about building **scalable, cloud-enabled, and high-performance software systems**, with hands-on experience in **Full-Stack Development, Data Structures & Algorithms, and Cloud Technologies**.
-
-- 🔭 Building **Full-Stack Applications** using **MERN, Next.js, and Cloud**
-- 🌱 Actively practicing **Data Structures & Algorithms**
-- ☁️ **Microsoft Certified:** Azure AI Fundamentals and GitHub Foundations
-- ⚡ Interested in **Software Engineering, Backend Systems, and Cloud Architecture**
+</div>
 
 ---
 
-# 💻 Tech Stack
+## ✦ About Me
+
+```text
+Name      : Diya Shrivastava
+Degree    : B.Tech CSE (Software Product Engineering)
+University: Lovely Professional University | Batch of '28
+CGPA      : 9.20 / 10
+Focus     : Full-Stack · AI/ML · Data Systems · Cloud
+```
+
+I’m a Microsoft Certified professional focused on building **scalable, data-driven systems**.
+
+I’ve developed:
+
+* 🚗 **ParkEase** — real-time parking system with Redis-backed architecture
+* 🏥 **HealthOps** — healthcare analytics pipeline (5,000+ records)
+* 🛍️ **CraftBridge** — production-ready mobile marketplace
+
+I enjoy working at the intersection of:
+
+> **Software Engineering × Data × Cloud**
+
+---
+
+## ✦ Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -39,6 +57,8 @@ I am passionate about building **scalable, cloud-enabled, and high-performance s
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
 ### Full-Stack
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
@@ -66,79 +86,88 @@ I am passionate about building **scalable, cloud-enabled, and high-performance s
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
----
 
-# 🚀 Projects
+## ✦ Featured Projects
 
-## 🅿️ ParkEase – Smart Parking Management System
+### 🏥 HealthOps — Hospital Resource Intelligence
 
-**Tech Stack:** Next.js, PostgreSQL, Prisma ORM, Redis, REST APIs, Vercel  
+> Data-driven healthcare analytics system
 
-- Developed a **full-stack parking management system**
-- Implemented **real-time slot booking and management**
-- Built **secure authentication and user profile system**
-- Improved performance using **Redis caching**
-- Designed **scalable REST API backend**
-- Successfully **deployed on Vercel Cloud**
+* Processed **5,000+ patient records**
+* Identified **ICU demand drivers & seasonal trends**
+* Built **end-to-end pipeline (cleaning → EDA → insights)**
+* Enabled **proactive hospital capacity planning**
 
-🔗 **Repository:**  
-https://github.com/kalviumcommunity/S66-0126-Diya-NextJS-ParkEase  
-
-🌐 **Live Application:**  
-https://parkease-sage.vercel.app/
+🔗 **Repository:** https://github.com/Inquisitiveshri34/HealthOps_Data-Driven_Hospital_Resource_Intelligence
 
 ---
 
-## 🛍️ CraftBridge – Marketplace for Local Artisans
+### 🅿️ ParkEase — Smart Parking System
 
-**Tech Stack:** Flutter, Firebase, Dart, Firestore, FCM, Google Maps  
+> Real-time parking booking platform
 
-- Built a **mobile marketplace** connecting artisans & buyers  
-- Designed **3-role system:** Admin, Seller, Buyer  
-- Implemented **real-time order management & notifications**  
-- Integrated **Google Maps for artisan discovery**  
-- Delivered a **production-ready APK independently**
+* Built **full-stack system with Next.js + PostgreSQL**
+* Designed **Redis caching layer for high concurrency**
+* Implemented **real-time slot tracking & booking**
+* Deployed on **Vercel Cloud**
 
-🔗 **Repository:** 
-https://github.com/Inquisitiveshri34/craft_bridge
+🔗 **Repository:** https://github.com/kalviumcommunity/S66-0126-Diya-NextJS-ParkEase  
 
----
-
-# 🎓 Education
-
-**Bachelor of Technology (B.Tech)**  
-Computer Science Engineering – Software Product Engineering  
-Lovely Professional University  
-📅 2024 – Present  
-📈 CGPA: **9.20 / 10**
-
-**Senior Secondary (CBSE – Science)**  
-KV Chandkheda, Ahmedabad  
-📅 2022 | **93%**
-
-**Secondary (CBSE)**  
-KV Chandkheda, Ahmedabad  
-📅 2020 | **91%**
+🌐 **Live Application:** https://parkease-sage.vercel.app/
 
 ---
 
-# 📜 Certifications
+### 🛍️ CraftBridge — Artisan Marketplace
 
-- [Microsoft Certified: **Azure AI Fundamentals (AI-900)**](https://learn.microsoft.com/api/credentials/share/en-us/DiyaShrivastava3/29C1A09C4E7DEE9?sharingId=EFE7584354ADC986)
-- [Microsoft Certified: **GitHub Foundations (GH-900)**](https://learn.microsoft.com/api/credentials/share/en-us/DiyaShrivastava3/537E8541AA097BAD?sharingId=EFE7584354ADC986)
+> Mobile marketplace connecting local sellers & buyers
 
----
+* Built **3-role system (Admin, Seller, Buyer)**
+* Implemented **real-time notifications (FCM)**
+* Integrated **Google Maps for discovery**
+* Delivered **production-ready APK independently**
 
-# 🤝 Connect With Me
-
-GitHub:  
-https://github.com/Inquisitiveshri34  
-
-LinkedIn:  
-https://www.linkedin.com/in/diyashrivastava34/
+🔗 **Repository:** https://github.com/Inquisitiveshri34/craft_bridge
 
 ---
 
-# ✨ Quote
+## ✦ Experience (Simulations)
 
-> *Strive for progress, not perfection. Let’s build something amazing.*
+* [**BCG Data Science Simulation**](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_68d50351e8c126991b09a501_1776932461943_completion_certificate.pdf)
+
+  * Built churn prediction model (Random Forest, 50% recall)
+  * Delivered executive insights for decision-making
+
+* [**Deloitte Data Analytics**](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68d50351e8c126991b09a501_1776756223512_completion_certificate.pdf)
+
+  * Built Tableau dashboard + Excel-based insights
+
+* [**JP Morgan Quant Research**](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_68d50351e8c126991b09a501_1776590566447_completion_certificate.pdf)
+
+  * Modeled loan default probabilities
+
+* [**Commonwealth Bank Data Science**](https://www.theforage.com/completion-certificates/2sNmYuurxgpFYawco/smwfytX3mcLboA9bf_2sNmYuurxgpFYawco_68d50351e8c126991b09a501_1775818566330_completion_certificate.pdf)
+
+  * Designed data pipelines & anonymization workflows
+
+---
+
+## ✦ Certifications
+
+* Microsoft Certified: [**Azure AI Fundamentals (AI-900)**](https://learn.microsoft.com/api/credentials/share/en-us/DiyaShrivastava3/29C1A09C4E7DEE9?sharingId=EFE7584354ADC986)
+* Microsoft Certified: [**GitHub Foundations (GH-900)**](https://learn.microsoft.com/api/credentials/share/en-us/DiyaShrivastava3/537E8541AA097BAD?sharingId=EFE7584354ADC986)
+* Anthropic Academy : [**AI Fluency & Frameworks**](https://verify.skilljar.com/c/kujhj7ubfwhb)
+* Anthropic Academy: [**Claude 101**](https://verify.skilljar.com/c/r3cdmzak8923)
+
+---
+
+## ✦ What Drives Me
+
+> *I aim to build systems that don’t just work — but scale, adapt, and create impact.*
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Let%27s%20build%20something%20impactful&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+</div>
