@@ -89,14 +89,13 @@ I enjoy working at the intersection of:
 
 ## ✦ Featured Projects
 
-### 🏥 HealthOps — Hospital Resource Intelligence
+### 🏥 HealthOps — Hospital Resource Demand Analysis Dashboard
 
 > Data-driven healthcare analytics system
 
-* Processed **5,000+ patient records**
-* Identified **ICU demand drivers & seasonal trends**
-* Built **end-to-end pipeline (cleaning → EDA → insights)**
-* Enabled **proactive hospital capacity planning**
+* Analyzed **5,000+ hospital patient records** to identify seasonal demand patterns, ICU usage trends, and operational bottlenecks
+* Built an **end-to-end healthcare analytics pipeline** using **Python, Pandas, Matplotlib, and Seaborn**
+* Developed and deployed an **interactive Streamlit dashboard** for hospital resource monitoring and capacity planning
 
 🔗 **Repository:** https://github.com/Inquisitiveshri34/HealthOps_Data-Driven_Hospital_Resource_Intelligence
 
