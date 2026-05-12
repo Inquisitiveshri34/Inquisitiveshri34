@@ -100,6 +100,8 @@ I enjoy working at the intersection of:
 
 🔗 **Repository:** https://github.com/Inquisitiveshri34/HealthOps_Data-Driven_Hospital_Resource_Intelligence
 
+🌐 **Live Application:** https://healthops.streamlit.app/
+
 ---
 
 ### 🅿️ ParkEase — Smart Parking System
